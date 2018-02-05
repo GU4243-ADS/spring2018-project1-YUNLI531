@@ -19,7 +19,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
     
     + In topic modeling part, we chose 6 topics and tried to find the difference in probabilities between the topics.  
 
- Unfortunately, I didn't find a way to set up a standard to justify whether there is too much violent mood in their works. I would like to explore more in this area and hope in the future, we will have a baseline, for example, when these violent terms make up about 20% or more of the entire article, children need to read such books under the guidance of their parents. 
+    Unfortunately, I didn't find a way to set up a standard to justify whether there is too much violent mood in their works. I would like to explore more in this area and hope in the future, we will have a baseline, for example, when these violent terms make up about 20% or more of the entire article, children need to read such books under the guidance of their parents. 
 
 
 # When you hear the horror fiction, what is the first picture that appears in your head？
